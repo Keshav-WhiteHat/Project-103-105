@@ -1,0 +1,21 @@
+body{
+    color:red;
+    background-image: url("https://ahskorea.com/wp-content/uploads/2020/07/20.-Away-from-family-during-covid-19-scaled.jpg");
+    background-size: cover;
+    font-size:23px;
+    font-weight:bold;
+}
+.heading{
+    width:80%;
+    font-size: 23px;
+}
+#camera{
+    border: 2px dashed black;
+    width:350px;
+    height:280px;
+}
+.name_of_object,#res_obj_name,#res_obj_accuracy{
+    color:blue;
+    font-size:25px;
+    font-weight:bold;
+}
